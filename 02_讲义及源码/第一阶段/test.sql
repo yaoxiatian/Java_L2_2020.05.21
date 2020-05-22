@@ -71,4 +71,4 @@ CREATE TABLE `user` (
 -- Records of user
 -- ----------------------------
 INSERT INTO `user` VALUES ('1', 'lucy', '123', '2019-12-12');
-INSERT INTO `user` VALUES ('2', 'tom'123', '2019-12-12');
+INSERT INTO `user` VALUES ('2', 'tom' , '123', '2019-12-12');
